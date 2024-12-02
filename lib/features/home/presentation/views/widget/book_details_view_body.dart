@@ -3,10 +3,8 @@ import 'package:booky_app/features/home/presentation/views/widget/book_details_s
 import 'package:booky_app/features/home/presentation/views/widget/custom_app_bar_book_details.dart';
 import 'package:booky_app/features/home/presentation/views/widget/similar_book_section.dart';
 import 'package:flutter/material.dart';
-
 class BookDetailsViewBody extends StatelessWidget {
   const BookDetailsViewBody({super.key, required this.bookModel});
-
   final BookModel bookModel;
   @override
   Widget build(BuildContext context) {
