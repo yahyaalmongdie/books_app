@@ -1,6 +1,5 @@
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
-
 class CustomBooKImage extends StatelessWidget {
   const CustomBooKImage({super.key, required this.imageUrl});
 
