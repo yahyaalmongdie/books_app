@@ -4,7 +4,6 @@ import 'package:flutter/material.dart';
 
 class SimilarBookSection extends StatelessWidget {
   const SimilarBookSection({super.key});
-
   @override
   Widget build(BuildContext context) {
     return Column(
