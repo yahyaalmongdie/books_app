@@ -5,7 +5,6 @@ import 'package:booky_app/features/home/presentation/views/widget/books_action.d
 import 'package:booky_app/features/home/presentation/views/widget/custom_book_image.dart';
 import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher.dart';
-
 class BookDetailsSection extends StatelessWidget {
   const BookDetailsSection({super.key, required this.bookModel});
   final BookModel bookModel;
