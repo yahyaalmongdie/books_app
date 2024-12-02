@@ -6,7 +6,6 @@ import 'package:booky_app/features/home/presentation/views/widget/book_rating.da
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
-
 class BookListViewItem extends StatelessWidget {
   const BookListViewItem({super.key, required this.bookModel});
 
