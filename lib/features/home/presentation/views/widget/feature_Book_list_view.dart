@@ -6,7 +6,6 @@ import 'package:booky_app/features/home/presentation/views/widget/custom_book_im
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:go_router/go_router.dart';
-
 class FeatureBooksListView extends StatelessWidget {
   const FeatureBooksListView({super.key});
 
