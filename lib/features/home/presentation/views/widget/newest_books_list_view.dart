@@ -5,7 +5,6 @@ import 'package:booky_app/features/home/presentation/manager/newest_books_cubit/
 import 'package:booky_app/features/home/presentation/views/widget/newest_books_list_view_item.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-
 class NewestBookListView extends StatelessWidget {
   const NewestBookListView({super.key});
 
