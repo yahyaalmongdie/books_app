@@ -3,7 +3,6 @@ import 'package:booky_app/features/home/presentation/views/widget/custom_app_bar
 import 'package:booky_app/features/home/presentation/views/widget/feature_Book_list_view.dart';
 import 'package:booky_app/features/home/presentation/views/widget/newest_books_list_view.dart';
 import 'package:flutter/material.dart';
-
 class HomeViewBody extends StatelessWidget {
   const HomeViewBody({super.key});
 
