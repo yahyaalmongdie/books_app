@@ -12,7 +12,6 @@ void main() {
   setupServicesLocator();
   runApp(const BooklyApp());
 }
-
 class BooklyApp extends StatelessWidget {
   const BooklyApp({super.key});
 
